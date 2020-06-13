@@ -1,0 +1,123 @@
+{
+    "ten_most_populous_states": [{
+        "state": "California",
+        "most_populous_cities": [{
+            "city": "Los Angeles",
+            "population": 3990456
+        }, {
+            "city": "San Diego",
+            "population": 1425976
+        }, {
+            "city": "San Jose",
+            "population": 1030119
+        }]
+    }, {
+        "state": "Texas",
+        "most_populous_cities": [{
+            "city": "Houston",
+            "population": 2325502
+        }, {
+            "city": "San Antonio",
+            "population": 1532233
+        }, {
+            "city": "Dallas",
+            "population": 1345047
+        }]
+    }, {
+        "state": "Florida",
+        "most_populous_cities": [{
+            "city": "Jacksonville",
+            "population": 903889
+        }, {
+            "city": "Miami",
+            "population": 470914
+        }, {
+            "city": "Tampa",
+            "population": 392890
+        }]
+    }, {
+        "state": "New York",
+        "most_populous_cities": [{
+            "city": "New York City",
+            "population": 8398748
+        }, {
+            "city": "Buffalo",
+            "population": 256304
+        }, {
+            "city": "Rochester",
+            "population": 206284
+        }]
+    }, {
+        "state": "Pennsylvania",
+        "most_populous_cities": [{
+            "city": "Philadelphia",
+            "population": 1584138
+        }, {
+            "city": "Pittsburgh",
+            "population": 301048
+        }, {
+            "city": "Allentown",
+            "population": 121433
+        }]
+    }, {
+        "state": "Illinois",
+        "most_populous_cities": [{
+            "city": "Chicago",
+            "population": 2705994
+        }, {
+            "city": "Aurora",
+            "population": 199602
+        }, {
+            "city": "Naperville",
+            "population": 148304
+        }]
+    }, {
+        "state": "Ohio",
+        "most_populous_cities": [{
+            "city": "Columbus",
+            "population": 892533
+        }, {
+            "city": "Cleveland",
+            "population": 383793
+        }, {
+            "city": "Cincinnati",
+            "population": 302605
+        }]
+    }, {
+        "state": "Georgia",
+        "most_populous_cities": [{
+            "city": "Atlanta",
+            "population": 498044
+        }, {
+            "city": "Augusta",
+            "population": 196939
+        }, {
+            "city": "Columbus",
+            "population": 194160
+        }]
+    }, {
+        "state": "North Carolina",
+        "most_populous_cities": [{
+            "city": "Charlotte",
+            "population": 872498
+        }, {
+            "city": "Raleigh",
+            "population": 469298
+        }, {
+            "city": "Greensboro",
+            "population": 294722
+        }]
+    }, {
+        "state": "Michigan",
+        "most_populous_cities": [{
+            "city": "Detroit",
+            "population": 672662
+        }, {
+            "city": "Grand Rapids",
+            "population": 200217
+        }, {
+            "city": "Warren",
+            "population": 134587
+        }]
+    }]
+}
